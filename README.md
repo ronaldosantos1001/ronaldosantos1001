@@ -1,5 +1,5 @@
 ## Olá eu sou  Ronaldo Dos Santos Costa
-Analista e Desenvolvedor de software autodidata, intuitivo e proativo, com especialidade em Desenvolvimento mobile com Flutter, com conhecimentos em UI/UX e Engenharia de Software.
+Analista e Desenvolvedor de software autodidata, intuitivo e proativo, com conhecimentos em UI/UX e Engenharia de Software.
 <div align="center">
   <a href="https://github.com/ronaldosantos1001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldosantos1001&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
